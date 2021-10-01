@@ -1,4 +1,4 @@
-## Welcome to Belajar Kripto NFT(WAX)
+## Welcome to Belajar Kripto NFT
 
 For NFT information, you can view our NFT collection [here](https://wax.atomichub.io/profile/zd1hg.wam).
 This web page is a list of NFT collections that you might like.
