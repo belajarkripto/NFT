@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Belajar Kripto NFT(WAX)
 
-You can use the [editor on GitHub](https://github.com/belajarkripto/NFT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+For NFT information, you can view our NFT collection [here](https://wax.atomichub.io/profile/zd1hg.wam).
+This web page is a list of NFT collections that you might like.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is NFT?
 
-### Markdown
+NFTs are digital files whose unique identity and ownership are verified on a blockchain (digital ledger). NFT does not exchange. NFT's are generally created by uploading a file, such as a digital artwork, to an auction marketplace. This creates a copy of the file, which is recorded as an NFT on a digital ledger. While the digital file itself can be reproduced indefinitely, the NFT representing the digital file is tracked down the blockchain and provides proof of ownership to the purchaser. Blockchains such as Ethereum and Flow each have their own token standards to define their use of NFT.(_Wikipedia_)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Use this wax address for donation.
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+zd1hg.wam
 ```
+### NFT List
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/belajarkripto/NFT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Infinite Variety](https://i.ibb.co/c1nct7s/Infinite-Variety.jpg)
+![Flame Rate](https://i.ibb.co/mhzHK9P/Flame-Rate.jpg)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Questions and such [contact support](https://t.me/learning_kripto_official) us and we will help you.
